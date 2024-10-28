@@ -1,0 +1,142 @@
+{
+	"titleBackgroundColor": "#ab0000",
+	"titleTextColor": "#ffffff",
+	"faceToptipColor": "#000000",
+	"instructionTextColor": "#000000",
+	"titleText": {
+		"zdocTitle": "Yuk, Foto KTP Anda untuk verif",
+		"zdocTitleImage": "",
+		"zfaceTitle": "Yuk, verifikasi wajah Anda",
+		"zfaceTitleImage": ""
+	},
+	"docSubtitleTextColor": "#ffffff",
+	"subTitleText": {
+		"zdocScanTipsDetail": "Sesuaikan KTP Anda di dalam frame sampai keempat sisi berubah jadi biru",
+		"zdocStandardFrameTips_00620000001_1": "Halaman depan eKTP"
+	},
+	"buttonColor": "#ab0000",
+	"instructionText": {
+		"zdocSubmit": "Kirim",
+		"zdocRetry": "Ulangi",
+		"zdocProcessing": "Processing...",
+		"zdocSuccess": "Processing...",
+		"zdocCapture_00620000001": "Letakkan KTP Anda di dalam frame dan ambil fotonya",
+		"zdocConfirm_00620000001": "Pastikan KTP kamu terlihat jelas, bebas dari pantulan cahaya, dan tidak buram ya.",
+		"zfaceNoFace": "Wajah tidak terdeteksi",
+		"zfaceNotInCenter": "Wajah tidak terdeteksi",
+		"zfaceBadPitch": "Wajah tidak terdeteksi",
+		"zfaceBadYaw": "Wajah tidak terdeteksi",
+		"zfaceBadQuality": "Wajah tidak terdeteksi",
+		"zfaceDistanceTooFar": "Wajah tidak terdeteksi",
+		"zfaceDistanceTooClose": "Wajah tidak terdeteksi",
+		"zfaceBadBrightness": "Wajah tidak terdeteksi",
+		"zfaceBadEyeOpenness": "Buka mata",
+		"zfaceBlinkOpenness": "Mohon berkedip",
+		"zfaceStackTime": "Stay Still",
+		"zfaceIsBlur": "Image Unclear",
+		"zfaceIsMoving": "Image Unclear",
+		"zfaceProcessing": "Processing...",
+		"zdocScanTipsDetail1": "Scan the front side of ID",
+		"zdocScanTipsDetail2": "Scan the back side of ID",
+		"zdocScanTipsDetail_00620000001_1": "Scan bagian depan KTP Anda",
+		"zdocScanTipsDetailChineseId1": "Scan ID's portrait side",
+		"zdocScanTipsDetailChineseId2": "Scan ID's national emblem side",
+		"zdocScanTipsMoveCloser": "Move closer",
+		"zdocScanTipsMoveFarther": "Move farther",
+		"zdocScanTipsMoveIntegrity": "Move for integrity",
+		"zdocScanTipsAvoidTilting": "Avoid tilting",
+		"zdocScanTipsAvoidShadow": "Avoid shadow",
+		"zdocScanTipsAvoidOcclusion": "Avoid occlusion",
+		"zdocScanTipsAvoidReflections": "Avoid reflections",
+		"zdocScanTipsStayBlur": "Stay still",
+		"zdocScanTipsStackTime": "Perfect",
+		"zdocScanTipsTiltedFront": "Scan the tilted front side of ID",
+		"zdocScanTipsLittleLess": "Tilt a little less",
+		"zdocScanTipsLittleMore": "Tilt a little more",
+		"zh5degradeCollectSecondPageChinaID": "Verification successful.Please capture ID's national emblem side.",
+		"zh5degradeCollectSecondPageID": "Verification successful. Please capture the back of the ID.",
+		"zh5degradeCollectSelfieImage": "Vertification successful. Please take a selfie image.",
+		"zfaceScanTipsMoveUp": "Head up slowly",
+		"zfaceScanTipsMoveDown": "Head down slowly",
+		"zfaceScanTipsMoveRight": "Turn your head to the right",
+		"zfaceScanTipsMoveLeft": "Turn your head to the left",
+		"zfaceScanTipsMouthOpen": "Open your mouth",
+		"zdocMsgTooDark": "More light required",
+		"zdocMsgTooBright": "Too bright",
+		"zdocMsgBlur": "ID is not clear",
+		"zdocMsgAbrasion": "The portrait is blurry"
+	},
+	"alertTitleTextColor": "#000000",
+	"alertContextTextColor": "#000000",
+	"alertChoicesTextColor": "#3696fd",
+	"alertText": {
+		"systemErrorTitle": "System error",
+		"systemErrorMsg": [
+			"Sorry, a system error has occured. Please try again later."
+		],
+		"alertGotIt": "Got it",
+		"alertRetry": "Retry",
+		"alertExit": "Quit",
+		"networkErrorTitle": "Internet connection failure",
+		"networkErrorMsg": [
+			"Please check your internet connection and try again."
+		],
+		"zdocNofaceTitle": "The portrait is incomplete",
+		"zdocNofaceMsg": [
+			"The portrait in the document is blurry or incomplete, please take a clear photo."
+		],
+		"zdocExposureTitle": "ID over exposure",
+		"zdocExposureMsg": [
+			"Please adjust the lighting to avoid over exposure."
+		],
+		"zdocBlurTitle": "ID not clear",
+		"zdocBlurMsg": [
+			"Please make sure your ID is fully visible, glare-free and not blurry."
+		],
+		"zdocImperfectTitle": "ID not complete",
+		"zdocImperfectMsg": [
+			"Please make sure your ID is fully visible, glare-free and not blurry."
+		],
+		"zdocWrongDocumentTitle": "Incorrect ID type detected",
+		"zdocWrongDocumentMsg": [
+			"Make sure you are using the required type of ID."
+		],
+		"zdocUnknowTitle": "Incorrect ID type detected",
+		"zdocUnknowMsg": [
+			"Make sure you are using the required type of ID."
+		],
+		"zdocTimeOutTitle": "Operation timeout",
+		"zdocTimeOutMsg": [
+			"Please make sure your ID is clear and non-reflective"
+		],
+		"unsupportDeviceTitle": "Browser or device is not supported",
+		"unsupportDeviceMsg": [
+			"The browser or device is not supported, please change the browser or device."
+		],
+		"zfaceTimeOutTitle": "Operation timeout",
+		"zfaceTimeOutMsg": [
+			"Please face the camera directly for easy capturing."
+		],
+		"zdocNoDocumentTitle": "No ID detected",
+		"zdocNoDocumentMsg": [
+			"Please align your ID with the frame before taking a photo."
+		],
+		"zfaceScanFailTitle": "Face verification failed",
+		"zfaceScanFailMsg": [
+			"Please face the phone camera directly and ensure that your face is bright and clear."
+		],
+		"cameraPermissionTitle": "No camera permission",
+		"cameraPermissionMsg": [
+			"Please allow the application to access your camera, or refresh and try again."
+		],
+		"retryMaxTitle": "Too many attempts",
+		"retryMaxMsg": [
+			"You have reached the maximum number of attempts. Please try again later."
+		],
+		"alertEnterCaptureMode": "Enter capture mode",
+		"zh5degradeNoCameraPermissionTitle": "No camera permission",
+		"zh5degradeNoCameraPermissionMsg": [
+			"Please go to settings and enable camera permission before trying again. Or tap \"Enter capture mode\" to complete the verification."
+		]
+	}
+}
